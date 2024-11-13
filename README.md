@@ -1,3 +1,3 @@
-# Hextra Starter Template
+# Koalabiru
 
 Koalabiru website repo
