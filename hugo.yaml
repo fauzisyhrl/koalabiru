@@ -19,7 +19,7 @@ markup:
 menu:
   main:
     - name: Home
-      pageRef: /about
+      url: "https://koalabiru.my.id"
       weight: 1
     - name: About
       pageRef: /about
